@@ -36,6 +36,6 @@ Este modulo es una aplicacion mobil android, que sirve como una interfaz interac
 3 - Spring Boot 2.5.5
 4 - Gradle 6.9.1
 5 - Hibernate
-6 = MySql
+6 - MySql
 
 
