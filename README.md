@@ -24,7 +24,7 @@ Este módulo en un web service montado con spring-boot.
 
 Este modulo es una aplicacion mobil android, que sirve como una interfaz interactiva con el usuario final y nuestro servicio spring-boot.
 
-1 - Desplegar este modulo con con Android Studio, luego ejecute el comando gradle clean install, para instar las dependencias de manera local en su proyecto.
+1 - Desplegar este modulo con con Android Studio, luego ejecute el comando gradle clean install, para instalar las dependencias de manera local en su proyecto.
 
 2 - Crear un Virtual Device (Emulador), y hacer click en el boton RUN, todo este luego de haber levantando el spring-boot service mencionado en el primer modulo.
 
